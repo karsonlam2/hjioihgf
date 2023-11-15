@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kirby 3D model I made in Paint 3D
+* source:	https://sketchfab.com/3d-models/kirby-3d-model-i-made-in-paint-3d-7b09b26a96d04ab7a4c238e53597d0d2
+* author:	Sonic the Hedgehog Fan # 9,945,677 (https://sketchfab.com/sonicmaniafan994878)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kirby 3D model I made in Paint 3D" (https://sketchfab.com/3d-models/kirby-3d-model-i-made-in-paint-3d-7b09b26a96d04ab7a4c238e53597d0d2) by Sonic the Hedgehog Fan # 9,945,677 (https://sketchfab.com/sonicmaniafan994878) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

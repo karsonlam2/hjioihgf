@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gaster Blaster Blender
+* source:	https://sketchfab.com/3d-models/gaster-blaster-blender-f34a992511b24e828d136cfd00ffe740
+* author:	djcooladc (https://sketchfab.com/djcooladc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gaster Blaster Blender" (https://sketchfab.com/3d-models/gaster-blaster-blender-f34a992511b24e828d136cfd00ffe740) by djcooladc (https://sketchfab.com/djcooladc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
